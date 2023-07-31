@@ -1,0 +1,40 @@
+Youtube Exeplanation Video:
+https://www.youtube.com/watch?v=la6U0aevTws
+__________________________________________________________
+
+To set up the "luassist" database using phpMyAdmin, follow these steps:
+
+step 1:
+Open phpMyAdmin and create a new database named "luassist".
+
+step 2:
+In the terminal, navigate to the project path and enter the command "php artisan serve" to start the PHP development server.
+
+step 3:
+In the same terminal, run the command "php artisan db:seed" to populate the database with data.
+
+step 4:
+Launch MAMP and copy the IP address provided. Paste the IP address into your browser to access the project.
+
+step 5:
+To log in, use the following credentials:
+
+-Administrator:
+username = Administrator
+password = password
+
+
+-Teachers:
+username = AliGhorayeb
+password = password
+
+username = KamalBaydoun
+password = password
+
+
+-Students:
+username = AliSaab
+password = password
+
+username = AliSweidan
+password = password
